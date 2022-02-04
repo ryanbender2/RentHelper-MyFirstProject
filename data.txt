@@ -1,10 +1,8 @@
 # ===== data set =====
 # (make sure to keep spaces in between = sign)
 
-rent = 0.0
-internet = 0.0
-power = 0.0
-
-
-
+rent = 0.00
+internet = 0.00
+power = 20
 water = 0.00
+

@@ -83,7 +83,7 @@ class modify:
     @staticmethod
     def reset(account):
         line_num = __get_line_number__(account, 'data.txt')
-        new_line = '\n' + account + ' = 0.00'
+        new_line = account + ' = 0.00\n'
         __replace_line__(line_num, new_line)
 
     @staticmethod
@@ -93,5 +93,5 @@ class modify:
                 for name in get.names():
                     if name in line:
                         line_num = ihm - 1
-                        new_line = '\n' + name.rstrip() + ' = 0.00'
+                        new_line = name.rstrip() + ' = 0.00\n'
                         __replace_line__(line_num, new_line)
