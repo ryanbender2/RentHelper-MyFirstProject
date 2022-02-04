@@ -25,7 +25,7 @@
 <h3 align="center">Rent Helper</h3>
 
   <p align="center">
-    project_description
+    My First Project
   </p>
 </div>
 
