@@ -107,7 +107,7 @@ Have a look at [releases](https://github.com/ryanbender2/rent-helper-myfirstproj
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@itsmeryan.hihello](https://www.instagram.com/itsmeryan.hihello/) - ryan.bender.general@gmail.com
+Ryan Bender - [@itsmeryan.hihello](https://www.instagram.com/itsmeryan.hihello/) - ryan.bender.general@gmail.com
 
 Project Link: [https://github.com/ryanbender2/rent-helper-myfirstproject](https://github.com/ryanbender2/rent-helper-myfirstproject)
 
