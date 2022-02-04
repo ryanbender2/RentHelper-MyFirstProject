@@ -26,6 +26,8 @@
 
   <p align="center">
     My First Project
+    <br />
+    Sommer of 2019
   </p>
 </div>
 
