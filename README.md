@@ -84,7 +84,7 @@ _The rest is history._
 
 **Original README**
 
-<div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+```txt
 version 1.0.1 update:
 	Bug fix:
 		fixed bug in reset command where running reset or reset all would cause program to crash.
@@ -94,7 +94,7 @@ Packages needed to run:
 
 How to run program: 
 - run the Rent_Helper.bat file
-</div>
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
