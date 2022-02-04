@@ -8,12 +8,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -54,9 +52,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Rent Helper Screen Shot][product-screenshot]](https://github.com/ryanbender2/rent-helper-myfirstproject)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+**My first ever coding project**
+
+Hello there. However you got here, thanks for being here, I'm glad to have you. What you're looking at here is my first ever project. Complete with no project structure, a misunderstanding of technologies, and a whole lot of enthusiasm to learn about programming.
+In the summer of 2019, I found myself working as a cyber security intern a small business. At the time, I didn't really have any interest in programming, I knew of it, but barely. I was interested in hacking, but with that came the necessity of learning how to code. A mentor of mine at school told me over a dinner, "If you want to be a hacker, you have to learn to code. There's no way around it." I didn't really know what to make of it at the time, but I figured...alright, I guess I'll need to learn that at some point. This didn't mean anything to me at my internship until I was given a small 'coding' project.
+I was tasked to rewrite a MatLab script in Python. How? How was I supposed to do that? I sure didn't know, but I was going to figure it out. Over the course of learning Python for that task I would come to find a love for code. My co-worker probably had no idea he would literally shape my career path by that simple task. 
+I did it. I completed the task. Somehow. I was filled with excitement and accomplishment. It was bad, don't get me wrong, but it was there, and it had just placed a spark of enthusiasm for coding in me.
+I wanted to code now. Something, anything. At the time, I had just moved in with my new roommates. Somewhat arbitrarily, I took on the responsibility of paying our bills, power, water, rent, etc. After a couple months of trying to manage it, I was starting to get really annoyed by having to keep track of everything. This is what gave my inspiration for this project.
+I remember I was sitting at my desk at work. I had finished everything I needed to do that day and was trying to find something to do. Then it hit me. The idea, the lightbuld, for this project. A wave of excitement washed over me like I had just found my true love. I'll skip past all the details, but over the next coming weeks, I would poor every bit of smarts I had in me to build this project. It wasn't pretty. It was also wrought with copied code (Stack Overflow to the rescue). But it was mine. I had created my first project.
+I remembered what my mentor had said at school. It rang different now. He said coding skill was essential for a hacker. But all I wanted to do was code now. Hacking was but a side project now. A means to get me to what I really wanted to do, at best. "Is it possible to just code for a job?" I asked this not knowing the answer. I thought to myself, there's no way anyone codes for a living. It is too much fun. In my mind, coding was the icing on top, the "fun" stuff. But you couldn't just do it for a living, surely. Otherwise, why would anyone do anything else?
+I found out software developers were in high demand. I forgot about pen testing. I got a software developer job right out of college.
+_The rest is history._
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -64,26 +72,29 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/)
+* [My Helping Hand](https://stackoverflow.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Historical README -->
+## History
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+**Original README**
+
+<div style="box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+version 1.0.1 update:
+	Bug fix:
+		fixed bug in reset command where running reset or reset all would cause program to crash.
+
+Packages needed to run: 
+- Python3 - Windows 10: https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe
+
+How to run program: 
+- run the Rent_Helper.bat file
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
