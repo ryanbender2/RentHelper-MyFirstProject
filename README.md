@@ -119,6 +119,7 @@ Project Link: [https://github.com/ryanbender2/rent-helper-myfirstproject](https:
 ## Acknowledgments
 
 * [Freepik - Flaticon](https://www.flaticon.com/free-icons/bank)
+* [Liberty University](https://www.liberty.edu/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
