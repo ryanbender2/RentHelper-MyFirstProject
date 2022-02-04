@@ -54,7 +54,7 @@
 
 [![Rent Helper Screen Shot][product-screenshot]](https://github.com/ryanbender2/rent-helper-myfirstproject)
 
-**My first ever coding project**
+### My first ever coding project
 <p><t>Hello there. However you got here, thanks for being here, I'm glad to have you. What you're looking at here is my first ever project. Complete with no project structure, a misunderstanding of technologies, and a whole lot of enthusiasm to learn about programming.
 In the summer of 2019, I found myself working as a cyber security intern a small business. At the time, I didn't really have any interest in programming, I knew of it, but barely. I was interested in hacking, but with that came the necessity of learning how to code. A mentor of mine at school told me over a dinner, "If you want to be a hacker, you have to learn to code. There's no way around it." I didn't really know what to make of it at the time, but I figured...alright, I guess I'll need to learn that at some point. This didn't mean anything to me at my internship until I was given a small 'coding' project.</p>
 <p>I was tasked to rewrite a MatLab script in Python. How? How was I supposed to do that? I sure didn't know, but I was going to figure it out. Over the course of learning Python for that task I would come to find a love for code. My co-worker probably had no idea he would literally shape my career path by that simple task. 
